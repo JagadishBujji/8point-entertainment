@@ -8,7 +8,7 @@ type LayoutProps = {
 
 const Layout: React.FC<LayoutProps> = ({ children }) => (
   <div>
-    <Navbar />
+    {/* <Navbar /> */}
     {children}
     <Footer />
   </div>

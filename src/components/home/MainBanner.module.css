@@ -1,3 +1,4 @@
+/* 
 .heading1 {
-  @apply text-[80px] text-[#fff];
-}
+  @apply text-[80px] text-[#fff] pt-[70px] sm:text-[20px] md:text-[40px] lg:text-[60px] xl:text-[80px] 2xl:text-[100px];
+} */
