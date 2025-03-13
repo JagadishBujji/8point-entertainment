@@ -13,16 +13,16 @@ const Counter = () => {
       <div className="relative z-10 max-w-screen-xl mx-auto px-6">
         <div className="grid grid-cols-1  md:grid-cols-2 gap-12 items-center max-w-6xl mx-auto">
           <div>
-            <h2 className="text-[80px] font-semibold leading-tight text-white">
+            <h2 className="text-[80px] xs:text-[42px] sm:text-[52px] md:text-[36px] lg:text-[60px] xl:text-[80px]  2xl:text-[70px] 3xl:text-[100px] 4xl:text-[80px] font-semibold leading-tight text-white">
               You imagine it, we bring it to life.
             </h2>
-            <p className="mt-4 text-white">
+            <p className="mt-4 text-white xs:text-[18px] sm:text-[18px] md:text-[18px] lg:text-[18px] xl:text-[18px] 2xl:text-[18px] 3xl:text-[18px] 4xl:text-[18px]">
               <span className=" font-medium">8 Point Entertainment</span>'s
               events are conceptualized to become one of Singapore’s most
               premier brand events, offering a breakthrough platform not just
               for designers but also for the brands associated with them.
             </p>
-            <p className="mt-2 text-gray-300">
+            <p className="mt-2 text-white xs:text-[18px] sm:text-[18px] md:text-[18px] lg:text-[18px] xl:text-[18px] 2xl:text-[18px] 3xl:text-[18px] 4xl:text-[18px]">
               We create targeted strategies so your video content speaks to the
               right audience in the right way, through the right channel.
             </p>
